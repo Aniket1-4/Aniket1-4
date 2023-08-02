@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Aniket</h1>
 <h3 align="center">A passionate Software developer from India.</h3>
 
-- During my time at college, I undertook a comprehensive software development project.This project aimed to streamline administrative processes and enhance the overall efficiency of managing student data within the college ecosystem. [Student Management System](https://github.com/Aniket1-4/Projects/tree/main/students)
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aniket1-4" alt="aniket1-4" /></a> </p>
+
+- 🔭 During my time at college, I undertook a comprehensive software development project.This project aimed to streamline administrative processes and enhance the overall efficiency of managing student data within the college ecosystem. [Student Management System](https://github.com/Aniket1-4/Projects/tree/main/students)
 
 - 🌱 **I really do enjoy code in Java and Spring Boot**
 
