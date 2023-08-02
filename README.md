@@ -1,4 +1,4 @@
-![Design and Development](https://github.com/Aniket1-4/Aniket1-4/blob/main/be-change-inspired-active-thunder-website.jpg)
+![Design and Development](https://github.com/Aniket1-4/Aniket1-4/blob/main/gitbanner.htm)
 <h1 align="center">Hi 👋, I'm Aniket</h1>
 <h3 align="center">A passionate Software developer from India.</h3>
 
